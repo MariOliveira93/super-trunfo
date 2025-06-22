@@ -51,4 +51,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-.idea/1
+.idea/
